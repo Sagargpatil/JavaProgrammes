@@ -1,0 +1,23 @@
+
+package calculator;
+
+public class AddSum {
+
+	
+	public static void main(String[] args) {
+
+        AddSum  c = new AddSum();
+        System.out.println(c.Add());
+        
+
+	}
+	
+	public int Add() {
+		
+		int a=10;
+		int b=20;
+		
+		return a+b;
+	}
+
+}

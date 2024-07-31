@@ -122,3 +122,8 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.oomph.setup.ui 1 0 2024-07-31 09:36:10.565
 !MESSAGE Setup tasks were performed during startup updating 1 preference. See 'C:\Users\Sagar\eclipse\jee-2022-12\eclipse\configuration\org.eclipse.oomph.setup\setup.log' for details
+
+!ENTRY org.eclipse.core.resources 2 2 2024-07-31 11:01:30.755
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2024-07-31 11:01:30.756
+!MESSAGE The project description file (.project) for 'Hello_World' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
