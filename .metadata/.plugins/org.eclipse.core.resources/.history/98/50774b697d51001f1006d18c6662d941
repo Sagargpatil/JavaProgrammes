@@ -1,0 +1,27 @@
+package ThisKeyword;
+
+public class ParameterisedWithThis {
+	
+	String name;
+	int rno;
+	
+	void setData(String name,int rno) {
+		
+		// now I want to set value of local value to instance variable 
+		//let me try
+		name = name;
+		rno = rno;
+	}
+	
+	void display() {
+		
+		System.out.println("Student name is "+ name);
+		System.out.println("Student rno is "+ rno);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
